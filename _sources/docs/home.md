@@ -1,27 +1,21 @@
-# Jupyter Book Tutorial
+# persvrijheid
 
-(Last updated: May 26, 2024)
+Namen
 
-In this tutorial, we will teach you how to create a Jupyter book and deploy it online.
-This page is written in markdown, which also serves as an example.
-All the content on this website is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+groepsnaam
 
-:::{note}
-This tutorial only mentions the basics.
-For more advanced usage of Jupyter Book (e.g., using this special content block, editing the configuration file `_config.yml`, editing the table of content file `_toc.yml`, etc.), check [the Jupyter Book documentation](https://jupyterbook.org/en/stable/content/index.html) for more information.
 :::
 
 ## Table of contents
-- [Prerequisites](#pre)
-- [Step 1: Install conda](#s1)
-- [Step 2: Install Jupyter Book](#s2)
-- [Step 3: Create a new repository](#s2)
-- [Step 4: Build the book locally](#s4)
-- [Step 5: Deploy the book online](#s5)
-- [Update the website content](#update)
-- [Troubleshooting](#ts)
+- [Introductie](#intro)
+- [Dataset and Preprocessing](#s1)
+- [First perspective](#s2)
+- [Second perspective](#s2)
+- [Reflection](#s4)
+- [Work distribution](#s5)
+- [References](#update)
 
-## Prerequisites
+## Introductie
 <a name="pre"></a>
 
 Please make sure you have all the prerequisites ready before continuing this tutorial.
